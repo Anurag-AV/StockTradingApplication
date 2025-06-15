@@ -1,0 +1,44 @@
+### IntelliJ IDEA ###
+out/
+src/META-INF
+!**/src/main/**/out/
+!**/src/test/**/out/
+!**/src/res/**/out/
+.idea/
+portfolios/
+stockData/
+portfolio/
+transactions/
+transaction/
+stockdata/
+Portfolios/
+Portfolio/
+StockData/
+Data/
+cache/
+
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
